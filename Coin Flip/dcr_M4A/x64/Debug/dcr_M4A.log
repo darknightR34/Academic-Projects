@@ -1,0 +1,8 @@
+﻿  dcr_M4A.cpp
+F:\UF\Spring 2022\COP2274\dcr_M4A\dcr_M4A\dcr_M4A.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\UF\Spring 2022\COP2274\dcr_M4A\dcr_M4A\dcr_M4A.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\UF\Spring 2022\COP2274\dcr_M4A\dcr_M4A\dcr_M4A.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\UF\Spring 2022\COP2274\dcr_M4A\dcr_M4A\dcr_M4A.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\UF\Spring 2022\COP2274\dcr_M4A\dcr_M4A\dcr_M4A.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M4A\dcr_M4A\dcr_M4A.cpp(71): warning C4715: 'coinFlip': not all control paths return a value
+  dcr_M4A.vcxproj -> F:\UF\Spring 2022\COP2274\dcr_M4A\x64\Debug\dcr_M4A.exe

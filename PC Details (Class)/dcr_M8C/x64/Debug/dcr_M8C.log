@@ -1,0 +1,5 @@
+﻿  dcr_M8C.cpp
+F:\UF\Spring 2022\COP2274\dcr_M8C\dcr_M8C\dcr_M8C.cpp(27,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M8C\dcr_M8C\dcr_M8C.cpp(39,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M8C\dcr_M8C\dcr_M8C.cpp(56,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  dcr_M8C.vcxproj -> F:\UF\Spring 2022\COP2274\dcr_M8C\x64\Debug\dcr_M8C.exe

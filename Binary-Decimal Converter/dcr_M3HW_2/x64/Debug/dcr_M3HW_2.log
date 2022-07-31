@@ -1,0 +1,9 @@
+﻿  dcr_M3HW_2.cpp
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(15,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(50,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(53,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(54,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(73,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(76,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+F:\UF\Spring 2022\COP2274\dcr_M3HW_2\dcr_M3HW_2\dcr_M3HW_2.cpp(77,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  dcr_M3HW_2.vcxproj -> F:\UF\Spring 2022\COP2274\dcr_M3HW_2\x64\Debug\dcr_M3HW_2.exe
